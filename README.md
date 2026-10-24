@@ -192,10 +192,10 @@ This approach is reflected in the progression from architecture analysis and clo
 Grounded in physical security and business managing mindset, but then, I grew high interest in AI Security, Cloud Security, SOC Operations, and Defensive Cyber security. Learning through practical labs and building a portfolio that reflects real security are my choice of work.
 
 ## Currently Building
-Defensive AI Security
-Cloud Security
-Identity and Access Management (IAM)
-Threat Detection & Incident Analysis
-AI Application & API Security
-Security Documentation
-Technical GitHub Portfolio
+Defensive AI Security.
+Cloud Security.
+Identity and Access Management (IAM).
+Threat Detection & Incident Analysis.
+AI Application & API Security.
+Security Documentation.
+Technical GitHub Portfolio.
