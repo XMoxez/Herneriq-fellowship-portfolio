@@ -5,7 +5,7 @@ This repository contains my hands-on documents throughout my learning at the Her
 
 The portfolio is weekly based organized such that each stage of the fellowship point out information from the foundational concepts through practical security investigation, exploitation analysis, remediation, and verification.
 
-Weekly Evidence
+### Weekly Evidence
 Week	Topic	Deliverable
 Week 1	4-Layer AI Architecture	AI Architecture Diagram
 Week 2	Defensive Python & JSON Security Log Analysis	Code Review Findings & CloudTrail IOC Analysis
@@ -16,27 +16,27 @@ Week 6	AI Model & ML Supply-Chain Security	DataForge ML Threat Assessment · IOC
 Week 7	Application & API Security	API Security Analysis · BOLA Assessment · Indirect Prompt Injection & Cross-Tenant Leakage Analysis
 Week 8	AI Application & API Security — CartBot AI	Threat Model · API Security Threat Model · AI Application Security Assessment Report · Remediation & Verification Evidence
 
-Week 1 — 4-Layer AI Architecture
+### Week 1 — 4-Layer AI Architecture
 Focused on understanding the architecture of AI systems and the security risks that can exist across different layers. The week established the foundation for thinking about AI systems as connected components rather than treating the model as the only security concern.
 
 Key focus: AI architecture, security boundaries, components, data movement, and identifying risks across the AI stack.
 
-Week 2 — Defensive Python & JSON Security Log Analysis
+### Week 2 — Defensive Python & JSON Security Log Analysis
 Focused on reading code and security logs from a defensive perspective. The work included identifying security issues in Python configuration and analyzing CloudTrail-style JSON security events using an IOC and 5Ws approach.
 
 Key focus: defensive code review, exposed secrets, configuration weaknesses, JSON log analysis, Indicators of Compromise (IoCs), and structured security investigation.
 
-Week 3 — Cloud Security Core (IAM)
+### Week 3 — Cloud Security Core (IAM)
 Focused on AWS Identity and Access Management and the Principle of Least Privilege. The practical work involved reviewing an overly permissive MedVitals IAM policy and producing a hardened JSON policy.
 
 Key focus: IAM users, roles and policies, permissions, least privilege, cloud access control, and secure IAM policy writing.
 
-Week 4 — MedVitals AI: Cloud Infrastructure Security
+### Week 4 — MedVitals AI: Cloud Infrastructure Security
 Focused on investigating a cloud-security incident involving an AI-enabled healthcare environment. The work covered incident investigation, CloudTrail evidence, Indicators of Compromise, attack timeline reconstruction, and security documentation.
 
 Key focus: cloud infrastructure security, incident response, CloudTrail analysis, IoCs, attack timelines, secrets management, and professional incident reporting.
 
-Week 5 — AI Agent Security
+### Week 5 — AI Agent Security
 Week 5 moved the focus from general AI security foundations into the security of AI agents and their interaction with tools, data, and external instructions.
 
 The practical work focused on the first AI Agent scenario and examined how prompt injection can influence an AI system when attacker-controlled instructions reach the agent's context or tool-use workflow.
@@ -50,7 +50,7 @@ Security patch/remediation work
 Documentation of the observed weakness and defensive response
 Key focus: AI agents, prompt injection, attacker-controlled instructions, security impact, incident reporting, and defensive patching.
 
-Week 6 — AI Model & ML Supply-Chain Security
+### Week 6 — AI Model & ML Supply-Chain Security
 Week 6 focused on the security of machine-learning model supply chains using the DataForge ML scenario. The lab examined the risks of downloading and loading a pre-trained model from an unverified public source without appropriate security checks.
 
 The investigation covered publisher verification, model provenance, model files and serialization formats, malicious pickle files, IOC identification, MITRE ATLAS mapping, and safe model-loading practices.
@@ -70,7 +70,7 @@ AML.T0018 — ML Model Backdoor
 Secure model serialization and loading
 Model threat assessment and remediation
 
-Week 7 — Application & API Security
+### Week 7 — Application & API Security
 Week 7 focused on the security boundary between users, applications, APIs, and AI systems. The work introduced the OWASP API Top 10 and examined how traditional API weaknesses can become especially important when an AI assistant is connected to application data and functionality.
 
 The practical work covered authentication versus authorization, Broken Object Level Authorization (BOLA), client-controlled object identifiers, rate limiting, Denial-of-Wallet exposure, indirect prompt injection, and cross-tenant data leakage.
@@ -90,7 +90,7 @@ Trust boundaries
 Least privilege and data isolation
 Rate limiting and resource protection
 
-Week 8 — AI Application & API Security: CartBot AI
+### Week 8 — AI Application & API Security: CartBot AI
 Week 8 brought the previous concepts together in the CartBot AI Level 3 Defense Lab. CartBot is an intentionally vulnerable e-commerce application combining a customer-facing API with an AI shopping assistant.
 
 The assessment examined how API security weaknesses and AI-specific threats can interact within the same application. The investigation identified three connected areas of risk:
@@ -98,6 +98,7 @@ The assessment examined how API security weaknesses and AI-specific threats can 
 Broken Object Level Authorization (BOLA) — the vulnerable API trusted a client-supplied customer_id instead of independently verifying the authenticated customer's authorization to access the requested object.
 Indirect Prompt Injection — attacker-controlled product content could enter the AI assistant's context and influence its behaviour.
 Unrestricted Resource Consumption / Denial of Wallet — disabled rate limiting increased the potential for automated abuse, bulk harvesting, and AI/API resource consumption.
+
 The Week 8 work followed a complete security workflow:
 
 Understand the application
@@ -118,7 +119,7 @@ Verify the fix
 
 The remediation work introduced JWT validation, server-side identity verification, rate limiting, and a restricted AI system prompt. The lab application was changed to report SECURITY_STATUS = "PATCHED".
 
-Key focus:
+### Key focus:
 
 AI application security
 API security
@@ -183,14 +184,14 @@ What does the system trust, where does that trust change, what can an attacker c
 This approach is reflected in the progression from architecture analysis and cloud security through AI agents, ML supply-chain security, API security, threat modeling, vulnerability analysis, remediation, and verification.
 
 ## About Me
-Abati Moses Oluwaseyi
+### Abati Moses Oluwaseyi
 
-AI Security Fellow — HerNetIQ Cohort 1 (2026)
+### AI Security Fellow — HerNetIQ Cohort 1 (2026)
 
-Background
+## Background
 Grounded in physical security with high interest in AI Security, Cloud Security, SOC Operations, and Defensive Cyber security. Learning through practical labs and building a portfolio that reflects real security are my choice of work.
 
-Currently Building
+## Currently Building
 Defensive AI Security
 Cloud Security
 Identity and Access Management (IAM)
