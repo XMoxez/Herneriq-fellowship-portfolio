@@ -1,9 +1,9 @@
-#HerNetIQ AI Security Fellowship — Portfolio
+# HerNetIQ AI Security Fellowship — Portfolio
 
-##About This Repository
+## About This Repository
 This repository contains my hands-on documents throughout my learning at the HerNetIQ AI Security Fellowship. Here are weekly security reports, practical projects, architecture & threat-model documentation, cloud security exercises, AI security assessments, technical write-ups that demonstrate my skills in AI Security and Cloud Security.
 
-The portfolio is weekly based organized such that each stage of the fellowship point out the foundational concepts through practical security investigation, exploitation analysis, remediation, and verification.
+The portfolio is weekly based organized such that each stage of the fellowship point out information from the foundational concepts through practical security investigation, exploitation analysis, remediation, and verification.
 
 Weekly Evidence
 Week	Topic	Deliverable
@@ -15,6 +15,7 @@ Week 5	AI Agent Security	AI Agent Security Analysis · Prompt Injection Assessme
 Week 6	AI Model & ML Supply-Chain Security	DataForge ML Threat Assessment · IOC Analysis · MITRE ATLAS Mapping · Model Loader Remediation
 Week 7	Application & API Security	API Security Analysis · BOLA Assessment · Indirect Prompt Injection & Cross-Tenant Leakage Analysis
 Week 8	AI Application & API Security — CartBot AI	Threat Model · API Security Threat Model · AI Application Security Assessment Report · Remediation & Verification Evidence
+
 Week 1 — 4-Layer AI Architecture
 Focused on understanding the architecture of AI systems and the security risks that can exist across different layers. The week established the foundation for thinking about AI systems as connected components rather than treating the model as the only security concern.
 
@@ -68,6 +69,7 @@ AML.T0020 — Craft Poison Training Data
 AML.T0018 — ML Model Backdoor
 Secure model serialization and loading
 Model threat assessment and remediation
+
 Week 7 — Application & API Security
 Week 7 focused on the security boundary between users, applications, APIs, and AI systems. The work introduced the OWASP API Top 10 and examined how traditional API weaknesses can become especially important when an AI assistant is connected to application data and functionality.
 
@@ -87,6 +89,7 @@ Cross-tenant leakage
 Trust boundaries
 Least privilege and data isolation
 Rate limiting and resource protection
+
 Week 8 — AI Application & API Security: CartBot AI
 Week 8 brought the previous concepts together in the CartBot AI Level 3 Defense Lab. CartBot is an intentionally vulnerable e-commerce application combining a customer-facing API with an AI shopping assistant.
 
@@ -179,7 +182,7 @@ What does the system trust, where does that trust change, what can an attacker c
 
 This approach is reflected in the progression from architecture analysis and cloud security through AI agents, ML supply-chain security, API security, threat modeling, vulnerability analysis, remediation, and verification.
 
-About Me
+## About Me
 Abati Moses Oluwaseyi
 
 AI Security Fellow — HerNetIQ Cohort 1 (2026)
