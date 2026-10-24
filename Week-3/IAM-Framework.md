@@ -2,7 +2,7 @@
 
 ## 1. Incident Summary
 
-The MedVitals AWS environment experienced a security incident after the compromise of the medvitals-backup-user IAM account. The attacker exploited the compromised credentials to explore cloud resources, create a new IAM user, and grant that user full administrative privileges through the AdministratorAccess policy. This enabled the attacker to establish persistent privileged access to the AWS environment, potentially exposing sensitive data, weakening security controls, and disrupting critical services. The incident highlights the importance of least-privilege access, secure credential management, and continuous monitoring to detect and prevent unauthorized activities.
+The MedVitals AWS environment experienced a security incident after the compromise of the medvitals-backup-user IAM account. The attacker exploited the compromised credentials to explore cloud resources, create a new IAM user, and grant that user full administrative privileges through the administrator access policy. This enabled the attacker to establish persistent privileged access to the AWS environment, potentially exposing sensitive data, weakening security controls, and disrupting critical services. The incident highlights the importance of least-privilege access, secure credential management, and continuous monitoring to detect and prevent unauthorized activities.
 
 
 ---
