@@ -1,7 +1,7 @@
 # HerNetIQ AI Security Fellowship — Portfolio
 
 ## About This Repository
-This repository contains my hands-on documents throughout my learning at the HerNetIQ AI Security Fellowship. Here are weekly security reports, practical projects, architecture & threat-model documentation, cloud security exercises, AI security assessments, technical write-ups that demonstrate my skills in AI Security and Cloud Security.
+This repository contains my hands-on documents throughout my learning at the HerNetIQ AI Security Fellowship. Here are weekly security reports, practical projects, architecture & threat-model documentation, cloud security exercises, AI security assessments, technical write-ups that demonstrate my skills on AI Security & Cloud Security.
 
 The portfolio is weekly based organized such that each stage of the fellowship point out information from the foundational concepts through practical security investigation, exploitation analysis, remediation, and verification.
 
@@ -189,7 +189,7 @@ This approach is reflected in the progression from architecture analysis and clo
 ### AI Security Fellow — HerNetIQ Cohort 1 (2026)
 
 ## Background
-Grounded in physical security with high interest in AI Security, Cloud Security, SOC Operations, and Defensive Cyber security. Learning through practical labs and building a portfolio that reflects real security are my choice of work.
+Grounded in physical security and business managing mindset, but then, I grew high interest in AI Security, Cloud Security, SOC Operations, and Defensive Cyber security. Learning through practical labs and building a portfolio that reflects real security are my choice of work.
 
 ## Currently Building
 Defensive AI Security
