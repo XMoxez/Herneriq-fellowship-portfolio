@@ -19,7 +19,7 @@ Secure model format: safetensors
 Framework: MITRE ATLAS
 Level 2 classification: AML.T0010 — ML Supply Chain Compromise
 ### 3. GitHub Evidence
-Level 2 hardening commit: https://github.
+Level 2 hardening commit: (https://github.com/XMoxez/Herneriq-fellowship-portfolio/blob/main/Week-6/README.md).
 ## Key Findings
 The DataForge ML deployment downloaded genomics_analyzer_v2.pkl from the logix-community/genomics-analyzer-v2 Hugging Face repository.
 
@@ -37,6 +37,7 @@ No checksum provided
 Licence is unknown
 No model card is provided
 The model uses the legacy .pkl format
+
 ## Security Hardening
 The Level 2 fix replaced unsafe Pickle loading with safetensors, added a mandatory Picklescan pre-load security gate, changed the model source to the verified repository specified by the walkthrough, and introduced model integrity verification into the remediation plan.
 
@@ -52,6 +53,7 @@ MLOps security
 Supply-chain risk assessment
 Security documentation
 Git and GitHub workflow
+
 ## Status
 ✅ Picklescan investigation completed
 ✅ Model Threat Assessment completed
