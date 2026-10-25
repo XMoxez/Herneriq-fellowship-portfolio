@@ -314,5 +314,5 @@ This lab has strengthened my understanding of cloud infrastructure security and 
 # Medium Walkthrough
 
 **Published Article:**
-(https://github.com/XMoxez/Herneriq-fellowship-portfolio/edit/main/Week-4/Medium-Walkthrough.md)
+(https://github.com/XMoxez/Herneriq-fellowship-portfolio/blob/main/Week-4/Medium-Walkthrough.md)
 > This Markdown version is a backup copy of my published Medium article. The complete article, including all seven screenshots, is available at the Medium link above.
