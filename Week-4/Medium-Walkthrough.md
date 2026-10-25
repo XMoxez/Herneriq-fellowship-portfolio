@@ -3,7 +3,7 @@
 
 *From reading about cloud attacks to investigating one myself.*
 
-<img width="960" height="442" alt="Screenshot 2026-07-28 204706" src="https://github.com/user-attachments/assets/cf8121c6-a196-4967-973b-5580f778ce18" />
+Screenshot
 
 
 
@@ -29,8 +29,7 @@ After forking the repository, I deployed my own copy using Streamlit Community C
 
 Once the deployment finished, I created my account and logged into the lab dashboard where Level 1 became available.
 
-<img width="1919" height="914" alt="Screenshot 2026-08-01 140625" src="https://github.com/user-attachments/assets/ece85e31-760d-463e-8e98-de8fbc7bb917" />
-
+Screenshot
 ---
 
 
@@ -72,8 +71,7 @@ Anyone who could view this repository would immediately have access to these cre
 
 This is known as **hardcoded credentials**, and it is considered a serious security vulnerability because automated tools constantly scan public repositories looking for exposed secrets.
 
-<img width="5998" height="3372" alt="Screenshot 2026-07-31 214729" src="https://github.com/user-attachments/assets/a22146de-d447-420d-92c4-3d5fa02403b8" />
-
+Screenshot
 ---
 
 
@@ -90,8 +88,7 @@ This completely violated the Principle of Least Privilege.
 
 If an attacker obtained the exposed credentials, there would be almost nothing preventing them from taking control of the AWS environment.
 
-<img width="5968" height="2057" alt="Screenshot 2026-07-31 214729" src="https://github.com/user-attachments/assets/032337fc-cbbe-4723-bac8-ba040685cc6e" />
-
+Screenshot
 ---
 
 
@@ -121,8 +118,7 @@ Rather than reading every field randomly, I used the **5Ws investigation framewo
 
 This simple framework helped me read the logs like an investigator instead of just looking at raw JSON data.
 
-<img width="866" height="1021" alt="screencapture-cyberdammy-ai-security-defense-lab-hf-space-2026-07-31-22_31_32" src="https://github.com/user-attachments/assets/68098237-44e3-495a-be9e-e79d4bfd99ef" />
-
+Screenshot
 ---
 
 
@@ -194,7 +190,7 @@ The complete attack took only a little over two minutes from initial access to d
 
 This demonstrated how quickly an exposed credential combined with excessive permissions can lead to a successful compromise.
 
-<img width="1837" height="901" alt="Screenshot 2026-08-01 115605" src="https://github.com/user-attachments/assets/bd5fd7e9-e0e3-4a5b-8f5b-b8d936eff929" />
+Screenshot
 
 ---
 
@@ -239,7 +235,7 @@ To prevent accidental exposure, I added the following entries to `.gitignore`:
 
 This ensures Git will never upload sensitive files or Python cache files to the repository.
 
-<img width="1919" height="1077" alt="Screenshot 2026-07-30 135857" src="https://github.com/user-attachments/assets/ce1ae33c-776b-4618-97ee-f751001dbbe3" />
+Screenshot
 
 ---
 
@@ -260,7 +256,7 @@ This significantly reduces the potential damage if the credentials are ever comp
 
 One important lesson I learned here is that **security is not just about preventing attacks—it is also about limiting the impact if an attack succeeds.**
 
-<img width="1919" height="1074" alt="Screenshot 2026-07-30 142620" src="https://github.com/user-attachments/assets/603d098e-2916-47a0-b885-546fcc222765" />
+Screenshot
 
 ---
 
@@ -277,7 +273,7 @@ Instead of simply saying that I understand cloud security, I now have publicly v
 
 That is far more valuable to recruiters and hiring managers than simply listing skills on a CV.
 
-<img width="1918" height="1079" alt="Screenshot 2026-07-31 211133" src="https://github.com/user-attachments/assets/018cf3d8-7a0d-4bc5-84e2-3b86b35af80b" />
+Screenshot 
 
 ---
 
@@ -318,5 +314,5 @@ This lab has strengthened my understanding of cloud infrastructure security and 
 # Medium Walkthrough
 
 **Published Article:**
-https://medium.com/@ikanke2021/ai-security-defense-lab-level-1-my-first-hands-on-cloud-security-investigation-21a05cfe567b?sharedUserId=ikanke2021
+(https://github.com/XMoxez/Herneriq-fellowship-portfolio/edit/main/Week-4/Medium-Walkthrough.md)
 > This Markdown version is a backup copy of my published Medium article. The complete article, including all seven screenshots, is available at the Medium link above.
