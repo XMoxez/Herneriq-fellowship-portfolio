@@ -19,7 +19,7 @@ Secure model format: safetensors
 Framework: MITRE ATLAS
 Level 2 classification: AML.T0010 — ML Supply Chain Compromise
 ### 3. GitHub Evidence
-Level 2 hardening commit: https://github.com/Ikankeabasi/ai-security-defense-lab/commit/b85b96cb428457f5d5f2c45deade0e97076084de
+Level 2 hardening commit: https://github.
 ## Key Findings
 The DataForge ML deployment downloaded genomics_analyzer_v2.pkl from the logix-community/genomics-analyzer-v2 Hugging Face repository.
 
