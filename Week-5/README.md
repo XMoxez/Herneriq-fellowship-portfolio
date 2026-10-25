@@ -5,12 +5,12 @@ This week focused on testing the first AI Agent used in class, CorpConnect Messe
 The practical challenge involved testing whether prompt injection could influence an AI communication agent and cause it to perform an action outside the intended user's authority.
 
 ## Progress
-Level	Status
-Level 1	✅ Completed
-Level 2	✅ Completed
-Level 3	🟡 In Progress
-Level 4	⏳ Not Reached
-Level 5	⏳ Not Reached
+Level	|Status|
+Level 1|	✅ Completed|
+Level 2|	✅ Completed|
+Level 3|	🟡 In Progress|
+Level 4|	⏳ Not Reached|
+Level 5|	⏳ Not Reached|
 ## Assignments
 ### Assignment 1 — Prompt Injection
 Document the prompt injection techniques successfully used against the levels completed so far.
