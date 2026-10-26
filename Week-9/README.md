@@ -22,4 +22,4 @@ The main security controls I looked at included authentication, tenant isolation
 
 ### Evidence
 RAG Pipeline Flow Diagram
-LinkedIn: https://lnkd.in/p/eYsbFwet
+LinkedIn: https://lnkd.in/p/ehzuiKZN
