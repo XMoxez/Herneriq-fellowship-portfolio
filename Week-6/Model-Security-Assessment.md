@@ -94,7 +94,7 @@ The hardened implementation prevents the original unsafe Pickle loading pattern 
 
 ### Level 2 GitHub Commit
 
-**Commit URL:** (https://github.com/XMoxez/ai-security-defense-lab/blob/main/PORTFOLIO.md)
+**Commit URL:** (https://github.com/XMoxez/Herneriq-fellowship-portfolio/tree/main/Week-2)
 
 This commit contains the Level 2 hardening changes made to the DataForge ML lab.
 
