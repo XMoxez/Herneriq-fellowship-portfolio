@@ -1,4 +1,5 @@
 # Week 9 — RAG Security & Threat Modeling
+
 This week marked the beginning of Domain 4, focusing on Data Pipelines and RAG Security using the PayGuard FinTech scenario.
 
 I worked on understanding how a RAG system moves documents through chunking, an embedding model and a vector database, and how user questions are retrieved and passed to the AI model.
