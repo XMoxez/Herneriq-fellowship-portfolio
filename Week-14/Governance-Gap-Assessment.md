@@ -1,6 +1,6 @@
 # Governance Gap Assessment — NovaPay AI
 
-**Prepared by:** Abati Moses
+**Prepared by:** Abati Moses 
 **Fellowship:** HerNetIQ AI Security Fellowship, Cohort 1  
 **Domain:** 6 — AI Governance (Governance Gap Assessment)  
 **Assessment date:** 26 October 2026  
