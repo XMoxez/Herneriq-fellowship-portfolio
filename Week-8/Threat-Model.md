@@ -1,3 +1,4 @@
+# Threat Model
 Application accepting customer/object identifier is not automatically vulnerability but is weather the server verifies that the authenticated customer is authorized to access that object.
 An application that accepts a customer or object identifier is not automatically vulnerable. The critical security question is whether the server verifies that the authenticated user is authorized to access the requested object.
 
