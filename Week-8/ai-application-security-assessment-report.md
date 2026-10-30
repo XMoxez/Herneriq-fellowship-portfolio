@@ -1,4 +1,4 @@
-AI Application Security Assessment Report
+# AI Application Security Assessment Report
 
 Project: HerNetIq AI Application Security Assessment
 Application: CartBot AI - Level 3 AI Defense Lab 
