@@ -1,6 +1,6 @@
-MEDVITALS AI Python script 
+# MEDVITALS AI Python script 
 
-Security Findings Report
+## Security Findings Report
 
 Assessment Area: Cloud Infrastructure and Python Configuration Security
 Project: MedVitals AI Defense Lab
@@ -8,7 +8,7 @@ Report Type: Security Vulnerability Assessment
 Prepared by: Abati Moses, AI Security Fellow
 Overall Risk: High — based on the identified configuration weaknesses
 
-1. Executive Summary
+### 1. Executive Summary
 
 During the security assessment of the MedVitals AI Python configuration, two important security weaknesses were identified: hardcoded API credentials and overly permissive cloud access permissions.
 
@@ -18,7 +18,7 @@ In a healthcare environment, a successful attack could put patient information a
 
 The recommended solution is to securely manage credentials, restrict cloud permissions to the minimum necessary, and test the updated configuration to confirm that the security weaknesses have been addressed.
 
-2. Security Findings
+### 2. Security Findings
 
 Finding 1: Hardcoded API Credentials
 
@@ -78,7 +78,7 @@ Recommended fix:
 
 Expected outcome: The application can perform its legitimate functions without having unnecessary access to sensitive cloud resources.
 
-3. Business and Security Impact
+### 3. Business and Security Impact
 
 If these weaknesses remain unresolved, MedVitals AI could face the following risks:
 
@@ -92,7 +92,7 @@ Loss of trust: Patients, healthcare professionals, and business partners may los
 
 These are potential consequences, not evidence that a breach has occurred.
 
-4. Remediation Plan
+### 4. Remediation Plan
 
 The following actions are recommended:
 
@@ -103,7 +103,7 @@ Priority| Required Action| Security Benefit
 4| Enable appropriate cloud audit logging and monitoring.| Improves the ability to detect suspicious activity.
 5| Test the updated configuration and document the results.| Provides evidence that the fixes work as intended.
 
-5. Verification and Evidence
+### 5. Verification and Evidence
 
 After implementing the fixes, the following checks should be performed:
 
@@ -131,7 +131,7 @@ Evidence to retain
 
 These checks should be completed before the fixes are reported as verified.
 
-6. Conclusion
+### 6. Conclusion
 
 The MedVitals AI assessment identified two important areas requiring improvement: credential management and cloud access control.
 
