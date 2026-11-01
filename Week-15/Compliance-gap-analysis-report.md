@@ -24,8 +24,11 @@ These are potential exposure areas, not findings of a legal breach. Legal/compli
 
 #### | Gap	|EU AI Act articles	|Board-level relevance (if applicable)|
 |Client data separation	|Articles 9, 15	|Risks must be assessed and addressed; applicable high-risk systems must maintain appropriate cybersecurity.|
+
 |Training-data approval	|Articles 9, 10	|Risks must be managed; data used for developing and checking applicable high-risk systems must meet data-governance and quality requirements.|
+
 |Model release approval	|Articles 9, 14, 43	|Manage risks, provide appropriate human oversight and complete the applicable conformity assessment before placing a high-risk system on the market or putting it into service.|
+
 |Fairness and monitoring	|Articles 9, 10	|Manage lifecycle risks and apply suitable data-governance and quality practices.|
 
 ## Prioritised Actions
