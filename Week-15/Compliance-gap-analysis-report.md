@@ -22,7 +22,7 @@ Some customers may receive inconsistent outcomes, and changes may go unnoticed u
 ## Regulatory Exposure
 These are potential exposure areas, not findings of a legal breach. Legal/compliance must confirm the system’s intended use, affected persons and territorial scope before treating the EU AI Act as binding.
 
-### Gap	EU AI Act articles	Board-level relevance (if applicable)
+### Gap	|EU AI Act articles	|Board-level relevance (if applicable)|
 Client data separation	Articles 9, 15	Risks must be assessed and addressed; applicable high-risk systems must maintain appropriate cybersecurity.
 Training-data approval	Articles 9, 10	Risks must be managed; data used for developing and checking applicable high-risk systems must meet data-governance and quality requirements.
 Model release approval	Articles 9, 14, 43	Manage risks, provide appropriate human oversight and complete the applicable conformity assessment before placing a high-risk system on the market or putting it into service.
