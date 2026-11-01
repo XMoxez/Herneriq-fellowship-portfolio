@@ -17,6 +17,7 @@ NIST AI RMF: Govern, Map, Measure and Manage
 ### Evidence:
 
 Autonomous Agent Risk Matrix (PDF) — risks, impacts, controls and framework mappings.
+
 Agent Security Quick Assessment — answers to the nine Career Passport assessment questions.
 ## LinkedIn:
 No LinkedIn profile or post link was available in the portfolio README I checked, so I have not added an unverified link.
