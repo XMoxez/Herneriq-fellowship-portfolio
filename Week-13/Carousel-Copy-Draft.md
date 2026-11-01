@@ -15,13 +15,13 @@ Used Semgrep, then mapped the risks to MAESTRO and NIST AI RMF.
 Removed standing authority, marked citizen input as untrusted, added human approval and enabled setting for action-logging.
 
 ## Page 3 — Fellow Spotlight
-Fellow: Abati Moses Oluwaseyi
+### Fellow: Abati Moses Oluwaseyi
 
-### INSIGHT
+#### INSIGHT
 I realised that securing an AI agent goes beyond blocking malicious instructions. Its permissions, actions, decision-making authority, and accountability must also be properly controlled.
-### WIN
+#### WIN
 I successfully identified key governance weaknesses and strengthened the system by restricting authority, introducing human approval, and improving audit logging.
-### CHALLENGE
+#### CHALLENGE
 My main challenge was understanding how goal hijacking could lead to privilege misuse and identifying the right architectural controls to prevent unauthorised actions.
 ## Artifact of the Week — Reference Link
 LegalBot hardened configuration — agent_config.py
