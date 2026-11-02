@@ -97,18 +97,25 @@ The Week 8 portfolio work includes evidence covering the vulnerable behaviour, r
 The practical security flow demonstrated in this week is:
 
 Understand the application
+
         ↓
 Identify assets and trust boundaries
+
         ↓
 Ask security questions
+
         ↓
 Discover vulnerabilities
+
         ↓
 Validate attack behaviour and impact
+
         ↓
 Document security findings
+
         ↓
 Apply remediation
+
         ↓
 Verify the fix
 
