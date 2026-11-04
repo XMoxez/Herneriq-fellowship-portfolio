@@ -165,7 +165,7 @@ The reviewed repository shows an unenforced tenant boundary, training-data check
 - **What security problem was I investigating?**
 - The main problem was identifying weaknesses in security controls and compliance processes that could expose sensitive information, allow unauthorized access, or leave the organization unprepared for security incidents.
 - **What did I changed or build?**
- -I identified areas requiring improvement and recommended stronger access controls, clear security policies, improved data protection, regular security reviews, and better incident response procedures. I also emphasized documenting security controls and assigning responsibility for maintaining compliance.
+  -I identified areas requiring improvement and recommended stronger access controls, clear security policies, improved data protection, regular security reviews, and better incident response procedures. I also emphasized documenting security controls and assigning responsibility for maintaining compliance.
 - **How did I verify it?**
 - I compared existing security practices against defined compliance requirements, reviewed available policies and control evidence, and documented the gaps identified. I then mapped each gap to a recommended corrective action to support remediation and future compliance reviews.
 - **What remains unclear?**
