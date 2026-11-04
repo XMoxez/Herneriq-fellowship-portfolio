@@ -160,11 +160,16 @@ The reviewed repository shows an unenforced tenant boundary, training-data check
 
 ## 8. Career Passport Evidence Notes
 
-- **What did I do?** I compared NovaPay's stated governance controls with the reviewed API code, training pipeline, model documentation, configuration, incident reports and audit log.
-- **What security problem was I investigating?** I checked whether tenant isolation, training-data integrity, deployment control, fairness evaluation and incident monitoring were supported by implementation evidence.
-- **What did I build?** I produced a four-finding governance gap assessment, a regulatory exposure summary and a prioritised remediation plan with owners, deadlines and verification evidence.
-- **How did I verify it?** I linked each finding to exact policy sections and code lines and correlated relevant audit-log events with the recorded incidents. I have not claimed runtime testing.
-- **What remains unclear?** The reviewed files do not establish live exploitability, whether additional controls exist outside the reviewed path, or the root causes of the open incidents. The legal applicability of EU AI Act requirements also requires confirmation.
+- **What did I do?**
+- I assessed an enterprise's security practices and controls to identify gaps between existing security measures and the required compliance standards. I reviewed access controls, data protection, security policies, risk management, and incident response procedures.
+- **What security problem was I investigating?**
+- The main problem was identifying weaknesses in security controls and compliance processes that could expose sensitive information, allow unauthorized access, or leave the organization unprepared for security incidents.
+- **What did I changed or build?**
+-I identified areas requiring improvement and recommended stronger access controls, clear security policies, improved data protection, regular security reviews, and better incident response procedures. I also emphasized documenting security controls and assigning responsibility for maintaining compliance.
+- **How did I verify it?**
+- I compared existing security practices against defined compliance requirements, reviewed available policies and control evidence, and documented the gaps identified. I then mapped each gap to a recommended corrective action to support remediation and future compliance reviews.
+- **What remains unclear?**
+- The main challenge was determining whether documented security policies were supported by actual evidence of implementation. I also learned that meeting compliance requirements involves more than having policies in place; organizations must implement, monitor, test, and regularly review their security controls.
 
 ---
 
