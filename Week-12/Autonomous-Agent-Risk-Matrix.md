@@ -76,10 +76,10 @@ Use clear human oversight for important actions and do not treat confident AI ou
 ### Summary
 The Autonomous Agent Risk Matrix identifies seven major security risks associated with autonomous AI customer-support agents.
 #### The assessment focuses on:
-Preventing malicious instructions from hijacking an agent's goals.
-Controlling how agents use available tools.
-Restricting excessive permissions and privileges.
-Protecting memory and retrieved information.
-Preventing unexpected code execution.
-Managing failures across connected systems.
-Maintaining human oversight and responsible trust.
+1. Preventing malicious instructions from hijacking an agent's goals.
+2. Controlling how agents use available tools.
+3. Restricting excessive permissions and privileges.
+4. Protecting memory and retrieved information.
+5. Preventing unexpected code execution.
+6. Managing failures across connected systems.
+7. Maintaining human oversight and responsible trust.
