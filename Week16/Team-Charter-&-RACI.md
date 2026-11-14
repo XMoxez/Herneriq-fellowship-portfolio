@@ -1,20 +1,17 @@
-
-# Team Charter & RACI: SS-ZURI-001 (Deliverable D0)
-
-Due within 24 hours of kickoff. Send to the ShipSecure engagement lead and the Client contact(Damilola, in the whatsapp group). Keep it short. It is a working document, so update it if your plan changes and note what changed.
+# Team Charter & RACI
 
 ## 1\. Team
 
 | Name | Role on this engagement | Workstream(s) owned | Contact / hours |
 | :---- | :---- | :---- | :---- |
 | Glory | Informed | Findings, Reporting and Evidence and AI and Model Security | WhatsApp/ 4PM |
-| Moses | Accountable&nbsp; | Data Security, RAG and Privacy | WhatsApp/ 6PM \- 7 |
+| Moses | Accountable&nbsp; | Missing Transaction Ownership Verification In Refunds | WhatsApp/ 6PM \ |
 | Adejoh | Consulted&nbsp; | Application and API Security&nbsp; | whatsApp / 5PM \- 8PM |
 | Ikanke | Responsible&nbsp; | Cloud and Infrastructure Security | WhatsApp and Call/2PM \- 6PM |
 
 &nbsp;
 
-2\. Our understanding of the client's goal
+## 2\. Our understanding of the client's goal
 
 *In 2–3 sentences, in the client's language, not ours.*
 
