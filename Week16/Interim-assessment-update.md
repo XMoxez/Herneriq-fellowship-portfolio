@@ -1,9 +1,7 @@
 # Interim Assessment Update
-HerNetIQ Team Vulnerability Register.
-TESTING LOGVULNERABILITY REPORT
 
+The following are processes and progress on tests ran, results and final findings.
 
-DATE AND TIME	TESTER	TEST PERFORMED	INPUT USED	RESULT
 | DATE AND TIME | TESTER  | TEST PERFORMED | INPUT USED RESULT |
 | :---- | :---- | :---- | :---- |
 | Nov 2026, 5:25 AM |	Ikanke |	Automated test suite (pytest -q) |	automated tests	PASS — 12 tests passed; 1 deprecation warning |
