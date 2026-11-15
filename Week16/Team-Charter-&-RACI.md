@@ -4,7 +4,7 @@
 
 | Name | Role on this engagement | Workstream(s) owned | Contact / hours |
 | :---- | :---- | :---- | :---- |
-| Glory | Informed | Findings, Reporting and Evidence and AI and Model Security | WhatsApp/ 4PM |
+| Glory | Informed | Data Security, RAG and Privacy | WhatsApp/ 4PM |
 | Moses | Accountable&nbsp; | Missing Transaction Ownership Verification In Refunds | WhatsApp/ 6PM  |
 | Adejoh | Consulted&nbsp; | Application and API Security&nbsp; | whatsApp / 5PM \- 8PM |
 | Ikanke | Responsible&nbsp; | Cloud and Infrastructure Security | WhatsApp and Call/2PM \- 6PM |
